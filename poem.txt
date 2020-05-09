@@ -5,3 +5,4 @@ green
 violet
 indigo
 yellow
+orange
