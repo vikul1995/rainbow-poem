@@ -6,4 +6,6 @@ violet
 indigo
 yellow
 orange
+
+black
 unicorn
